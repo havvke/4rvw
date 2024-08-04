@@ -1,3 +1,7 @@
+// README
+// Main funkcija ir viskas iki jos jau buvo parasyta Harvardo.
+// Mano rasytas kodas prasideda nuo 105 eilutes. <3
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
